@@ -5281,7 +5281,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isGrabbable: 0
-  isInteractable: 1
+  isInteractable: 0
   isCombineable: 1
   interactableName: "Geh\xE4use"
   TrainARObjectDisabled: 0
@@ -7415,10 +7415,10 @@ BoxCollider:
   m_LayerOverridePriority: 0
   m_IsTrigger: 0
   m_ProvidesContacts: 0
-  m_Enabled: 1
+  m_Enabled: 0
   serializedVersion: 3
-  m_Size: {x: 2.2686067, y: 0.95979524, z: 1.9031429}
-  m_Center: {x: 3.7356303, y: -0.07077336, z: 0.95157146}
+  m_Size: {x: 2.2686067, y: 0.95979524, z: 1.8640085}
+  m_Center: {x: 3.7356303, y: -0.07077336, z: 0.9320043}
 --- !u!64 &517389695
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -7436,7 +7436,7 @@ MeshCollider:
   m_LayerOverridePriority: 0
   m_IsTrigger: 0
   m_ProvidesContacts: 0
-  m_Enabled: 1
+  m_Enabled: 0
   serializedVersion: 5
   m_Convex: 1
   m_CookingOptions: 30
@@ -23410,8 +23410,8 @@ Transform:
   m_GameObject: {fileID: 709030663}
   serializedVersion: 2
   m_LocalRotation: {x: -0.9848078, y: 0, z: 0, w: 0.17364825}
-  m_LocalPosition: {x: 0.3595, y: 0.564, z: -0.6007}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalPosition: {x: -0.143, y: 0.852, z: 0.11}
+  m_LocalScale: {x: 1.9546, y: 1.9546, z: 1.9546}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
